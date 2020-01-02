@@ -1,0 +1,12 @@
+let qualquer = 'ola'
+console.log(typeof qualquer)// Irá dizer de que tipo de dados está sendo utilizado
+
+let numero = 2.302
+console.log(typeof numero)// Irá dizer que é um float
+
+/* TIPO DE TIPAGEM DO JAVASCRIPT 
+- Isso quer dizer de que modo a linguagem trata a intepretação do tipo de dado usado
+- O javascript é o tipo dinâmica, ou seja, fraca
+- Ou seja, se você declara uma variavel x sendo 3.20, o Javascript já entende que é um float 
+sem mesmo você precisar dizer que é um float. 
+- Você pode alterar essa variável por outra que seja uma string por exemplo. */
